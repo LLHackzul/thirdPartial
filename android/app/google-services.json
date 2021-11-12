@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327484031095",
+    "project_id": "tercer-parcial-860c7",
+    "storage_bucket": "tercer-parcial-860c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327484031095:android:f7bb83d7b128cd89d44672",
+        "android_client_info": {
+          "package_name": "com.example.tercer_parcial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327484031095-2h23h3krnve5b15qlkqtjsv0infhicpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIFmD_-j9EpX1RWhQx3bMnVtWYcROA3y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327484031095-2h23h3krnve5b15qlkqtjsv0infhicpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
